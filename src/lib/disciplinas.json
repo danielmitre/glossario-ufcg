@@ -218,7 +218,7 @@
     "MSN": [
         {
             "acronym": "MSN",
-            "meaning": "Métodos e Softwares Numéricos é uma disciplina optativa do curso Ciência da Computação na UFCG inspirada em Cálculo Numérico, mas voltada para Ciência da Computação. Os principais conceitos abordados são: cálculo de erro, encontrar o zero de funções, ajustar um polinômio entre pontos e calcular integrais. A matéria era obrigatória no plano de curso pré 2018.1.",
+            "meaning": "Métodos e Softwares Numéricos é uma disciplina optativa do curso Ciência da Computação na UFCG inspirada em Cálculo Numérico, mas voltada para Ciência da Computação. Os principais conceitos abordados são: cálculo de erro, encontrar o zero de funções, ajustar um polinômio entre pontos e calcular integrais. Era uma disciplina obrigatória do 7º período no plano de curso pré 2018.1.",
             "type": "Disciplina",
             "entry": "Métodos e Softwares Numéricos",
             "examples": ["Acho que vou pagar MSN pra completar minhas horas complementares.", "Ei, você já pagou MSN? Coloquei na matrícula, mas estou com medo da matéria.", "Socorro, onde eu encontro leites de MSN?"]
